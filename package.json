@@ -1,0 +1,13 @@
+{
+  "name": "sistema_restaurante_backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/DavideCarvalho/sistema_restaurante_backend.git",
+  "author": "Davi de Carvalho <davi_carvalho96@hotmail.com>, Marina Pirutti",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.2"
+  }
+}
