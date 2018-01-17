@@ -9,6 +9,6 @@ const schema = mongoose.Schema({
     type: String,
     required: true
   },
-})
+});
 
 mongoose.model('Produto', schema);

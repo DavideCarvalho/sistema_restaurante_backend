@@ -1,4 +1,4 @@
-const api = {}
+const api = {};
 
 api.greeting = (req, res) => {
   const response = {hello: "world"}
